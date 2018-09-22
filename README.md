@@ -10,7 +10,7 @@ John McAvoy
 ### Programs
 
 #### Simple Blink
-Blinks an LED on and off. [demo](./demos/simple_blink.mp4)
+Blinks an LED on and off. [demo](./demos/simple_blink.gif)
 
 ##### Pinouts
 
@@ -23,7 +23,9 @@ Blinks an LED on and off. [demo](./demos/simple_blink.mp4)
 [schematic](./schematics/simple_blink.png)
 
 #### Multiple Blink
-Blinks 3 LEDs on and off at different frequencies. [demo](./demos/multiple_blink_demo.mp4)
+Blinks 3 LEDs on and off at different frequencies. [demo](./demos/multiple_blink_demo.gif)
+
+[off-board demo](./demos/off_board_blink.gif)
 
 ##### Pinouts
 
@@ -36,7 +38,7 @@ Blinks 3 LEDs on and off at different frequencies. [demo](./demos/multiple_blink
 [schematic](./schematics/multiple_blink.png)
 
 #### Button Blink
-Controls an LED using a button input. [demo](./demos/button_blink.mp4)
+Controls an LED using a button input. [demo](./demos/button_blink.gif)
 
 ##### Pinouts
 
